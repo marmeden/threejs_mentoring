@@ -4,7 +4,11 @@ A collection of useful links to get into threejs. Tutorials, experiments, exampl
 ## Tutorials
 Either video or post tutorials I found useful to get into this world and get some practice.
 
-- Diving in ThreeJS by Chris Ganon 
-[Youtube-video](https://youtu.be/ABV1mK1CGOY)
+- Diving in ThreeJS by CJ Gammon [Youtube-video](https://youtu.be/ABV1mK1CGOY)
+
+## GitHub Profiles
+Links to some inspiring users in the ThreeJS community
+
+- [CJ Gammon](https://github.com/cjgammon)
 
 
