@@ -7,7 +7,7 @@ Either video or post tutorials I found useful to get into this world and get som
 - Diving in ThreeJS by CJ Gammon [Youtube-video](https://youtu.be/ABV1mK1CGOY)
 
 ## GitHub Profiles
-Links to some inspiring user profiles in the ThreeJS community
+Links to some inspiring github user profiles in the ThreeJS community
 
 - [CJ Gammon](https://github.com/cjgammon)
 
