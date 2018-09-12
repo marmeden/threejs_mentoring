@@ -11,6 +11,7 @@ Either video or post tutorials I found useful to get into this world and get som
 ## Templates
 Some examples good to be used as a boilerplate
 - Sphere with directional light by Trent Polack [codepen](https://codepen.io/mittense/pen/MoNYbW)
+- Sphere with orbit controls by Jonathan [codepen](https://codepen.io/jonathanphz/pen/NRdzaO)
 
 
 ## Experiments
@@ -22,6 +23,7 @@ Some good examples and experiments out there to get deeper into threeJS
 - Solar system animation by Piotr Kalinowski [codepen](https://codepen.io/piotrkalinowski/pen/yMXomv)
 - Blob animation by takashi [codepen](https://codepen.io/tksiiii/pen/jwdvGG)
 - Bloom cube by Tino Fileccia [codepen](https://codepen.io/TinoF/pen/LBqMGp)
+- Simple avatar by Jonathan [codepen](https://codepen.io/jonathanphz/pen/qKKEeJ)
 
 ## Shaders
 Examples where a specially appealing shader is used
@@ -29,6 +31,7 @@ Examples where a specially appealing shader is used
 - Torus Shader by Trent Polack [codepen](https://codepen.io/mittense/project/editor/ARwvjL)
 - Blob Glos Shader by Daniel del Core [codepen](https://codepen.io/danieldelcore/pen/wqqgPN)
 - Planetoid with old VHS shader by Moses Holmström [codepen](https://codepen.io/thykka/pen/LyNJNX)
+- Planet shader by Peter Liepa [codepen](https://codepen.io/brainjam/pen/MXjevp)
 
 
 ## GitHub Profiles
