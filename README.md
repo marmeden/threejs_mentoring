@@ -21,7 +21,7 @@ Some good examples and experiments out there to get deeper into threeJS
 - Particles Morph by Brad Arnett [codepen](https://codepen.io/bradarnett/pen/jZPwpv)
 - Solar system animation by Piotr Kalinowski [codepen](https://codepen.io/piotrkalinowski/pen/yMXomv)
 - Blob animation by takashi [codepen](https://codepen.io/tksiiii/pen/jwdvGG)
-
+- Bloom cube by Tino Fileccia [codepen](https://codepen.io/TinoF/pen/LBqMGp)
 
 ## Shaders
 Examples where a specially appealing shader is used
