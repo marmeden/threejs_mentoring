@@ -24,6 +24,8 @@ Some good examples and experiments out there to get deeper into threeJS
 - Blob animation by takashi [codepen](https://codepen.io/tksiiii/pen/jwdvGG)
 - Bloom cube by Tino Fileccia [codepen](https://codepen.io/TinoF/pen/LBqMGp)
 - Simple avatar by Jonathan [codepen](https://codepen.io/jonathanphz/pen/qKKEeJ)
+- Water rendering by Filipi Nowicki [codepen](https://codepen.io/FilipeNowicki/pen/xzOZoV)
+- Plane wave by Alexander Fallenstedt [codepen](https://codepen.io/Fallenstedt/pen/XzOXMO)
 
 ## Shaders
 Examples where a specially appealing shader is used
