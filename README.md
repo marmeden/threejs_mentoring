@@ -20,12 +20,15 @@ Some good examples and experiments out there to get deeper into threeJS
 - Waves by Titouan Mathis [codepen](https://codepen.io/titouanmathis/pen/ZWYBGE)
 - Particles Morph by Brad Arnett [codepen](https://codepen.io/bradarnett/pen/jZPwpv)
 - Solar system animation by Piotr Kalinowski [codepen](https://codepen.io/piotrkalinowski/pen/yMXomv)
+- Blob animation by takashi [codepen](https://codepen.io/tksiiii/pen/jwdvGG)
 
 
 ## Shaders
-Examples with a specially appealing shader is used
+Examples where a specially appealing shader is used
 - Moon Shader by Victor Vergara [codepen](https://codepen.io/vcomics/pen/ZjMpOe)
 - Torus Shader by Trent Polack [codepen](https://codepen.io/mittense/project/editor/ARwvjL)
+- Blob Glos Shader by Daniel del Core [codepen](https://codepen.io/danieldelcore/pen/wqqgPN)
+- Planetoid with old VHS shader by Moses Holmström [codepen](https://codepen.io/thykka/pen/LyNJNX)
 
 
 ## GitHub Profiles
@@ -33,4 +36,6 @@ Links to some inspiring github user profiles in the ThreeJS community
 
 - [CJ Gammon](https://github.com/cjgammon)
 - [Victor Vergara](https://codepen.io/vcomics/)
+- [Daniel del Core](https://github.com/danieldelcore)
+- [takashi](https://codepen.io/tksiiii/)
 
