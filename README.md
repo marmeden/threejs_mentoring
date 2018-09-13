@@ -7,6 +7,7 @@ Either video or post tutorials I found useful to get into this world and get som
 - Official Documentation [Website](https://threejs.org)
 - Diving in ThreeJS by CJ Gammon [Youtube-video](https://youtu.be/ABV1mK1CGOY)
 - ThreeJS Tutorials by SonarSystems [Youtube-video](https://youtu.be/YKzyhcyAijo)
+- BasicThreeJS by MadDog [Youtube-video](https://youtu.be/9fg93FzfamU)
 
 ## Templates
 Some examples good to be used as a boilerplate
