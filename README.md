@@ -9,6 +9,11 @@ Either video or post tutorials I found useful to get into this world and get som
 - ThreeJS Tutorials by SonarSystems [Youtube-video](https://youtu.be/YKzyhcyAijo)
 - BasicThreeJS by MadDog [Youtube-video](https://youtu.be/9fg93FzfamU)
 
+## Talks
+Few talks about ThreeJS from tech conferences
+
+- Getting started with ThreeJS by Jaume Sanchez Elias at JSConf Budapest 2015 [Youtube-video](https://youtu.be/HwkGTYRopYg)
+
 ## Templates
 Some examples good to be used as a boilerplate
 - Sphere with directional light by Trent Polack [codepen](https://codepen.io/mittense/pen/MoNYbW)
@@ -37,11 +42,12 @@ Examples where a specially appealing shader is used
 - Planet shader by Peter Liepa [codepen](https://codepen.io/brainjam/pen/MXjevp)
 
 
-## GitHub Profiles
+## GitHub/Codepen Profiles
 Links to some inspiring github user profiles in the ThreeJS community
 
 - [CJ Gammon](https://github.com/cjgammon)
 - [Victor Vergara](https://codepen.io/vcomics/)
 - [Daniel del Core](https://github.com/danieldelcore)
 - [takashi](https://codepen.io/tksiiii/)
+- [Jaume Sanchez Elias](https://github.com/spite)
 
