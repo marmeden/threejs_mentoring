@@ -32,6 +32,7 @@ Some good examples and experiments out there to get deeper into threeJS
 - Simple avatar by Jonathan [codepen](https://codepen.io/jonathanphz/pen/qKKEeJ)
 - Water rendering by Filipi Nowicki [codepen](https://codepen.io/FilipeNowicki/pen/xzOZoV)
 - Plane wave by Alexander Fallenstedt [codepen](https://codepen.io/Fallenstedt/pen/XzOXMO)
+- Planet by tr13ze [codepen](https://codepen.io/tr13ze/pen/QpNbNd)
 
 ## Shaders
 Examples where a specially appealing shader is used
@@ -40,6 +41,7 @@ Examples where a specially appealing shader is used
 - Blob Glos Shader by Daniel del Core [codepen](https://codepen.io/danieldelcore/pen/wqqgPN)
 - Planetoid with old VHS shader by Moses Holmström [codepen](https://codepen.io/thykka/pen/LyNJNX)
 - Planet shader by Peter Liepa [codepen](https://codepen.io/brainjam/pen/MXjevp)
+- Anaglyph hand shader by tr13ze [codepen](https://codepen.io/tr13ze/pen/QvNGRP)
 
 
 ## GitHub/Codepen Profiles
