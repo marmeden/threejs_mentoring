@@ -8,6 +8,7 @@ Either video or post tutorials I found useful to get into this world and get som
 - Diving in ThreeJS by CJ Gammon [Youtube-video](https://youtu.be/ABV1mK1CGOY)
 - ThreeJS Tutorials by SonarSystems [Youtube-video](https://youtu.be/YKzyhcyAijo)
 - BasicThreeJS by MadDog [Youtube-video](https://youtu.be/9fg93FzfamU)
+- GUI ThreeJS by Broghtvulture [Youtube-video](https://youtu.be/YMJzjjOumbw)
 
 ## Talks
 Few talks about ThreeJS from tech conferences
