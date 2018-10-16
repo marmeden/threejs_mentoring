@@ -35,8 +35,8 @@ Some good examples and experiments out there to get deeper into threeJS
 - Plane wave by Alexander Fallenstedt [codepen](https://codepen.io/Fallenstedt/pen/XzOXMO)
 - Planet by tr13ze [codepen](https://codepen.io/tr13ze/pen/QpNbNd)
 - Tower wave by Ion D.Filho [codepen](https://codepen.io/iondf_/pen/rqVaKp)
-- 404 page by Afiq Xilantra [codepen] (https://codepen.io/Afiq/pen/JLgiD)
-- Solar systema by Not Important [codepen] (https://codepen.io/Afiq/pen/JLgiD)
+- 404 page by Afiq Xilantra [codepen](https://codepen.io/Afiq/pen/JLgiD)
+- Solar systema by Not Important [codepen](https://codepen.io/Afiq/pen/JLgiD)
 
 ## Shaders
 Examples where a specially appealing shader is used
@@ -46,7 +46,7 @@ Examples where a specially appealing shader is used
 - Planetoid with old VHS shader by Moses Holmström [codepen](https://codepen.io/thykka/pen/LyNJNX)
 - Planet shader by Peter Liepa [codepen](https://codepen.io/brainjam/pen/MXjevp)
 - Anaglyph hand shader by tr13ze [codepen](https://codepen.io/tr13ze/pen/QvNGRP)
-- Warm shader in chewing gum by Favio Ottaviani [codepen] (https://codepen.io/supah/pen/BqwJxq)
+- Warm shader in chewing gum by Favio Ottaviani [codepen](https://codepen.io/supah/pen/BqwJxq)
 
 
 ## GitHub/Codepen Profiles
