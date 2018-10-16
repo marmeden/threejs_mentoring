@@ -57,4 +57,5 @@ Links to some inspiring github user profiles in the ThreeJS community
 - [Daniel del Core](https://github.com/danieldelcore)
 - [takashi](https://codepen.io/tksiiii/)
 - [Jaume Sanchez Elias](https://github.com/spite)
+- [tr13ze](https://codepen.io/tr13ze/)
 
